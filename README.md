@@ -1,8 +1,5 @@
-This project is developed using Tuya SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices.
 
-For more information, please check Tuya Developer Website.
-
-# 云开发 quickstart
+# 涂鸦小程序云开发 quickstart
 
 这是云开发的快速启动指引，其中演示了如何上手使用云开发的三大基础能力：
 
